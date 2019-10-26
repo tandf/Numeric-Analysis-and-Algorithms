@@ -1,0 +1,26 @@
+﻿  FaceMatch.cpp
+e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(546): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(734): warning C4101: 'e': unreferenced local variable
+  e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(729): note: while compiling class template member function 'bool cmdline::parser::option_with_value<T>::set(const std::string &)'
+          with
+          [
+              T=std::string
+          ]
+  e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(790): note: see reference to class template instantiation 'cmdline::parser::option_with_value<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+  e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(355): note: see reference to class template instantiation 'cmdline::parser::option_with_value_with_reader<T,F>' being compiled
+          with
+          [
+              T=std::string,
+              F=cmdline::oneof_reader<std::string>
+          ]
+  e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\facematch.cpp(28): note: see reference to function template instantiation 'void cmdline::parser::add<std::string,cmdline::oneof_reader<std::string>>(const std::string &,char,const std::string &,bool,const T,F)' being compiled
+          with
+          [
+              T=std::string,
+              F=cmdline::oneof_reader<std::string>
+          ]
+  FaceMatch.vcxproj -> E:\Google Drive\Tsinghua\2018 Autumn Semester\Numeric Analysis and Algorithms\Homework\BigOne\FaceMatch\x64\Debug\FaceMatch.exe

@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{需求分析}{}% 1
+\BOOKMARK [1][-]{section.2}{方案设计}{}% 2
+\BOOKMARK [1][-]{section.3}{方案基本原理}{}% 3
+\BOOKMARK [1][-]{section.4}{误差分析}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{舍入误差}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{最近邻插值}{section.4}% 6
+\BOOKMARK [3][-]{subsubsection.4.2.1}{舍入误差}{subsection.4.2}% 7
+\BOOKMARK [3][-]{subsubsection.4.2.2}{方法误差}{subsection.4.2}% 8
+\BOOKMARK [2][-]{subsection.4.3}{双线性插值}{section.4}% 9
+\BOOKMARK [3][-]{subsubsection.4.3.1}{舍入误差}{subsection.4.3}% 10
+\BOOKMARK [3][-]{subsubsection.4.3.2}{方法误差}{subsection.4.3}% 11
+\BOOKMARK [2][-]{subsection.4.4}{双三次插值}{section.4}% 12
+\BOOKMARK [3][-]{subsubsection.4.4.1}{舍入误差}{subsection.4.4}% 13
+\BOOKMARK [3][-]{subsubsection.4.4.2}{方法误差}{subsection.4.4}% 14
+\BOOKMARK [1][-]{section.5}{程序使用及结果}{}% 15

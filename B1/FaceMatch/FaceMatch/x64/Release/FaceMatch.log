@@ -1,0 +1,31 @@
+﻿  FaceMatch.cpp
+e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(550): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(738): warning C4101: 'e': unreferenced local variable
+  e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(733): note: while compiling class template member function 'bool cmdline::parser::option_with_value<T>::set(const std::string &)'
+          with
+          [
+              T=std::string
+          ]
+  e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(794): note: see reference to class template instantiation 'cmdline::parser::option_with_value<T>' being compiled
+          with
+          [
+              T=std::string
+          ]
+  e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\cmdline.h(359): note: see reference to class template instantiation 'cmdline::parser::option_with_value_with_reader<T,F>' being compiled
+          with
+          [
+              T=std::string,
+              F=cmdline::oneof_reader<std::string>
+          ]
+  e:\google drive\tsinghua\2018 autumn semester\numeric analysis and algorithms\homework\bigone\facematch\facematch\facematch.cpp(24): note: see reference to function template instantiation 'void cmdline::parser::add<std::string,cmdline::oneof_reader<std::string>>(const std::string &,char,const std::string &,bool,const T,F)' being compiled
+          with
+          [
+              T=std::string,
+              F=cmdline::oneof_reader<std::string>
+          ]
+  Generating code
+  2 of 1201 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FaceMatch.vcxproj -> E:\Google Drive\Tsinghua\2018 Autumn Semester\Numeric Analysis and Algorithms\Homework\BigOne\FaceMatch\x64\Release\FaceMatch.exe

@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}采用数值方法求$\pi $}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}计算代价和收敛速度}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}误差分析}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}截断误差}{2}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}存储误差}{2}{subsubsection.1.2.2}
+\contentsline {section}{\numberline {2}采用数值方法求$\qopname \relax o{ln}(\pi )$}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}计算代价和收敛速度}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}误差分析}{3}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}截断误差}{3}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}存储误差}{3}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}之前计算结果误差累计}{4}{subsubsection.2.2.3}
+\contentsline {section}{\numberline {3}采用数值方法求$\pi ^x$}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}计算代价和收敛速度}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}误差分析}{4}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}方法累积误差}{4}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}存储误差}{5}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}累积误差}{5}{subsubsection.3.2.3}
+\contentsline {section}{\numberline {4}程序框图}{6}{section.4}
+\contentsline {section}{\numberline {5}实验结果及分析}{6}{section.5}
